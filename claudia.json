@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "workshop-ws-5-8-aws-andy-executor",
+    "name": "workshop-ws-5-8-aws-andy",
+    "region": "us-east-2"
+  }
+}
